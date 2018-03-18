@@ -26,6 +26,6 @@ public class Tricky {public static void main(String[] args) {
  }
 
 // 3. Were you correct? Explain any differences - NO, I thought the "done with main" would be first and there is an extra "this is message1
- 
+// I understand this now ! I tried to complete this project before fully reading the chapter.
 
 
